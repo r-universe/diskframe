@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "disk.frame"]
-	path = disk.frame
-	url = https://github.com/diskframe/disk.frame
-	shallow = true
-	registered = true
