@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "disk.frame",
+    "oncran": true
+  }
+]
